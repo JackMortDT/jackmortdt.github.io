@@ -1,0 +1,71 @@
+---
+banner:
+    title: Hi! I’m Luis
+social:
+    twitter: ""
+    linkedin: luis-sastré-garcía-b1a565184
+    github: JackMortDT
+    gitlab: ""
+    facebook: ""
+    gmail: luis.sastre.dev
+    instagram: "luis.sastr"
+about:
+    enable: true
+    content: Full stack software developer
+    button:
+        btnText: Find out more
+        URL: "/about"
+skill:
+    enable: true
+    item:
+        - title: Elixir
+          logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672263021/elixir-lang-icon_z28qur.svg
+          description:
+              I have been working with technologies like Elixir, Phoenix and LiveViews for around 3 years. I have
+              experience with e-commerce platforms
+        - title: Groovy
+          logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672263269/445px-Groovy-logo.svg_qf9z7z.png
+          description: Details coming soon, contact me if you want to know more
+        - title: Go
+          logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672265124/519-5199230_go-programming-language-logo-clipart_pbwgu3.webp
+          description: Details coming soon, contact me if you want to know more
+        - title: React
+          logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672263372/react-logo_skgbfs.webp
+          description: Details coming soon, contact me if you want to know more
+
+experience:
+    enable: true
+    item:
+        - logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672263471/4326155_qps4dt.webp
+          title: Software Developer
+          company: Making Devs
+          duration: 2017 - 2019 and 2022 - Current
+        - logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672263746/194767_ihq5nd.svg
+          title: Software Developer
+          company: EBC
+          duration: 2019 - 2022
+        - logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672264059/109518467_584679515564757_4756233733337213774_n_vswfx0.jpg
+          title: Software Developer
+          company: Tecnoalfa Telecom
+          duration: 2021 - 2022
+        - logo: https://res.cloudinary.com/drrqrheqt/image/upload/v1672264210/61f1b90a3baebef7d62d04a6_astronaut-run_dzr5du.png
+          title: Software Developer
+          company: Bunsan
+          duration: 2022 - Current
+hackathons:
+    enable: false
+certifications:
+    enable: false
+education:
+    enable: true
+    item:
+        - title: Informatics Engineer
+          year: 2014 - 2018
+          academy: UPIICSA - IPN
+          image: https://res.cloudinary.com/drrqrheqt/image/upload/v1672264667/UPIICSA_cwasfy.png
+leadership:
+    enable: false
+portfolio:
+    filter:
+        - label: Web Dev
+          value: web-dev
