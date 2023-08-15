@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Jack Blog</title>
+    <title>Posts on PaperModL2</title>
     <link>https://jackmortdt.github.io/posts/</link>
-    <description>Recent content in Posts on Jack Blog</description>
+    <description>Recent content in Posts on PaperModL2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 14 Aug 2023 16:04:50 -0600</lastBuildDate><atom:link href="https://jackmortdt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git: Travesía por un laberinto de versiones</title>
+      <title>Git: Navigating the labyrinth of version control</title>
       <link>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control/</link>
       <pubDate>Mon, 14 Aug 2023 16:04:50 -0600</pubDate>
       
