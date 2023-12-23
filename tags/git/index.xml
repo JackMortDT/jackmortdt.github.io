@@ -9,10 +9,19 @@
     <lastBuildDate>Mon, 14 Aug 2023 16:04:50 -0600</lastBuildDate><atom:link href="https://jackmortdt.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git: Navigating the labyrinth of version control</title>
-      <link>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control/</link>
+      <link>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control.en.md/</link>
       <pubDate>Mon, 14 Aug 2023 16:04:50 -0600</pubDate>
       
-      <guid>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control/</guid>
+      <guid>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control.en.md/</guid>
+      <description>Breve introducción sobre que es git</description>
+    </item>
+    
+    <item>
+      <title>Git: Travesía por un laberinto de versiones</title>
+      <link>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control.es.md/</link>
+      <pubDate>Mon, 14 Aug 2023 16:04:50 -0600</pubDate>
+      
+      <guid>https://jackmortdt.github.io/posts/navigating_the_labyrinth_of_version_control.es.md/</guid>
       <description>Breve introducción sobre que es git</description>
     </item>
     

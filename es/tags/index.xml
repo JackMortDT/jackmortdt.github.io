@@ -5,43 +5,6 @@
     <link>https://jackmortdt.github.io/es/tags/</link>
     <description>Recent content in Tags on Jack Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 28 Aug 2023 17:22:33 -0600</lastBuildDate><atom:link href="https://jackmortdt.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>elixir</title>
-      <link>https://jackmortdt.github.io/es/tags/elixir/</link>
-      <pubDate>Mon, 28 Aug 2023 17:22:33 -0600</pubDate>
-      
-      <guid>https://jackmortdt.github.io/es/tags/elixir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pattern matching</title>
-      <link>https://jackmortdt.github.io/es/tags/pattern-matching/</link>
-      <pubDate>Mon, 28 Aug 2023 17:22:33 -0600</pubDate>
-      
-      <guid>https://jackmortdt.github.io/es/tags/pattern-matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>analogy</title>
-      <link>https://jackmortdt.github.io/es/tags/analogy/</link>
-      <pubDate>Mon, 14 Aug 2023 16:04:50 -0600</pubDate>
-      
-      <guid>https://jackmortdt.github.io/es/tags/analogy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://jackmortdt.github.io/es/tags/git/</link>
-      <pubDate>Mon, 14 Aug 2023 16:04:50 -0600</pubDate>
-      
-      <guid>https://jackmortdt.github.io/es/tags/git/</guid>
-      <description></description>
-    </item>
-    
+    <language>es</language><atom:link href="https://jackmortdt.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

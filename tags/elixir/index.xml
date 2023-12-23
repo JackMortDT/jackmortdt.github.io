@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>elixir on PaperModL2</title>
+    <link>https://jackmortdt.github.io/tags/elixir/</link>
+    <description>Recent content in elixir on PaperModL2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Aug 2023 17:22:33 -0600</lastBuildDate><atom:link href="https://jackmortdt.github.io/tags/elixir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ballet Binario: Haciendo Juegos de Patrones con Elixir</title>
+      <link>https://jackmortdt.github.io/posts/binary_ballet_pattern_matching_with_elixir.es.md/</link>
+      <pubDate>Mon, 28 Aug 2023 17:22:33 -0600</pubDate>
+      
+      <guid>https://jackmortdt.github.io/posts/binary_ballet_pattern_matching_with_elixir.es.md/</guid>
+      <description>Binary pattern matching</description>
+    </item>
+    
+  </channel>
+</rss>

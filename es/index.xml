@@ -5,25 +5,6 @@
     <link>https://jackmortdt.github.io/es/</link>
     <description>Recent content on Jack Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 28 Aug 2023 17:22:33 -0600</lastBuildDate><atom:link href="https://jackmortdt.github.io/es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ballet Binario: Haciendo Juegos de Patrones con Elixir</title>
-      <link>https://jackmortdt.github.io/es/posts/binary_ballet_pattern_matching_with_elixir/</link>
-      <pubDate>Mon, 28 Aug 2023 17:22:33 -0600</pubDate>
-      
-      <guid>https://jackmortdt.github.io/es/posts/binary_ballet_pattern_matching_with_elixir/</guid>
-      <description>Binary pattern matching</description>
-    </item>
-    
-    <item>
-      <title>Git: Travesía por un laberinto de versiones</title>
-      <link>https://jackmortdt.github.io/es/posts/navigating_the_labyrinth_of_version_control/</link>
-      <pubDate>Mon, 14 Aug 2023 16:04:50 -0600</pubDate>
-      
-      <guid>https://jackmortdt.github.io/es/posts/navigating_the_labyrinth_of_version_control/</guid>
-      <description>Breve introducción sobre que es git</description>
-    </item>
-    
+    <language>es</language><atom:link href="https://jackmortdt.github.io/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
